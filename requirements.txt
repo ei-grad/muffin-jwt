@@ -1,0 +1,2 @@
+PyJWT
+muffin>=0.0.99
